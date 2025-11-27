@@ -1,4 +1,4 @@
-# PCB Studio Pro (洞洞板焊接助手)
+# PCB Studio Pro
 
 PCB Studio Pro 是一個專為電子愛好者與創客設計的輕量級 Python 桌面應用程式。它的主要目的是解決在焊接洞洞板 (Perfboard) 時，因為翻面導致腳位左右顛倒、容易接錯線的痛點。
 
